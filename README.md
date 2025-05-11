@@ -28,10 +28,11 @@ The Random Forest model performed the best, achieving a recall score of 71%. Key
 
 ## Recommendations
 
-Customer Retention Strategy: Implement personalized offers or discounts based on call minutes and charges to address churn factors.
-Reduce Customer Service Calls: Develop strategies to minimize the need for customer service interactions, as these can lead to churn.
-Reassess Costs: Consider adjusting pricing to be more budget-friendly for customers, as total expenditure impacts churn.
-Improve Customer Service: Focus on addressing issues raised in customer service calls and ensure staff are well-trained in customer service best practices.
-Customer-Centered Plans: Offer flexible plans that cater to diverse customer needs, such as international plans versus voicemail options.
+1. Customer Retention Strategy: Implement personalized offers or discounts based on call minutes and charges to address churn factors.
+2. Reduce Customer Service Calls: Develop strategies to minimize the need for customer service interactions, as these can lead to churn.
+3. Reassess Costs: Consider adjusting pricing to be more budget-friendly for customers, as total expenditure impacts churn.
+4. Improve Customer Service: Focus on addressing issues raised in customer service calls and ensure staff are well-trained in customer service best practices.
+5. Customer-Centered Plans: Offer flexible plans that cater to diverse customer needs, such as international plans versus voicemail options.
+
 ## Summary/Conclusion
 This project aimed to create a predictive model to identify SyriaTel customers at risk of churning. By analyzing historical data, various machine learning algorithms were tested to enhance prediction accuracy. The model can be refined with new data and additional features, like sentiment analysis from customer feedback, to improve its effectiveness. This project highlights the importance of data-driven strategies in managing customer churn in the telecom industry.
